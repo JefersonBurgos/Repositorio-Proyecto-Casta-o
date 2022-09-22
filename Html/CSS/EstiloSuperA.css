@@ -1,0 +1,82 @@
+h1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    color: rgb(51, 68, 228);
+    background-color: #a7a4a4;
+}
+
+#image{
+ width: 120px;
+
+}
+
+#Range{
+    text-align: right;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    padding: 20px;
+}
+
+body{
+    background-color: #eeebeb;
+    margin-left: 30px;
+}
+
+.InfoSuperAdmin{
+    font-family: 'Courier New', Courier, monospace;
+    color: #000000;
+     
+}
+
+.InfoSuperAdmin label{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: block;
+    text-align: left;
+}
+
+.InfoSuperAdmin input{
+    border-radius: 5px;
+    width: 250px;
+    height: 100;
+    border-style: solid;
+}
+
+.Inputform{
+    margin:10px 0px
+}
+
+.InfoCSA{
+    display: inline-block;
+    vertical-align: top;
+    font-family: Arial;
+    font-size: 30px;
+}
+
+.Buttons{
+    border-radius: 5px;
+    width: 150px;
+}
+ 
+#cerrarS{
+    text-align:right;
+}
+
+#Botoncerrar{
+    display: inline-block;
+    margin-top: 35px;
+    background-color: rgb(240, 224, 135);
+    padding: 10px 20px;
+    color: black;
+    text-decoration: none;
+    text-transform: capitalize;
+    border-radius: 40px;
+}
+
+#Botoncerrar:hover{
+    color: #000000 !important;
+background: #eff877;
+background: linear-gradient(to top, #4136dd, #2ea1d6);
+text-align: right;
+}
